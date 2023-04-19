@@ -8,14 +8,13 @@ author_profile: true
 
 Personal
 ===
-I grew up in [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), Gansu in western China and spent 4 years in Hefei. I love these two cities.
+I grew up in Xuzhou, Jiangsu province, which is in eastern China. I moved to Nanjing after high school. Now I have lived in Nanjing for more than 15 years. During my Phd programme, I also studied in London under the supervision of Prof Edmund Burke, Jun Chen and Michal Weiszer. 
 
 
 Interest
 ===
-* Watching all kinds of sports games, especially basketball, football, and table tennis.
-* Warriors fans
+* Reading and writting
+* Talking with friends
 * Cooking
-* Traveler
 
 
