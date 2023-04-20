@@ -23,7 +23,7 @@ author_profile: true
 
 [2] Chen Wang, Yongjun Min, **Tianci Zhang**. Image restoration of automatic driving simulation road scene based on improved Criminisi algorithm. Software Engineering, 2022, 25(03): 44-47. (in Chinese)
 
-[3] **Tianci Zhang**, Michal Weiszer, Jun Chen. The feasibility of Follow-the-Greens for 4-dimensional trajectory based airport ground movements. Transportation Research Part C: Emerging Technologies, 2020, 116: 1-14.
+[3] **Tianci Zhang**, Michal Weiszer, Jun Chen. The feasibility of Follow-the-Greens for 4-dimensional trajectory based airport ground movements. Transportation Research Part C: Emerging Technologies, 2020, 116: 1-14. [pdf]()
 
 [4] **Tianci Zhang**, Meng Ding, Xiaoyan Qian, Hongfu Zuo. Moving object speed measurement for low-camera-angle surface surveillance. Journal of Beijing University of Aeronautics and Astronautics, 2020, 46(02): 266-273. (in Chinese)
 
