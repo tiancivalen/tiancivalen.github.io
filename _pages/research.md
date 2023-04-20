@@ -8,9 +8,12 @@ author_profile: true
 
 # Research interest
 
-- Data-driven optimisation
+- Data-driven optimisation 
+   - deep learning enhanced optimisation algorithms
+   - end-to-end optimisation algorithm learning
+- Optimisation allied to surface vehicles
    - constrained shortest path finding 
-   - real-time routing and scheduling of surface vehicles
+   - real-time routing and scheduling
    - conflict-free trajectory planning 
 - Intelligent vehicle
    - computer vision based environment sensing
