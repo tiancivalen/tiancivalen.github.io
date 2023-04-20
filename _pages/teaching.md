@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Transportation Systems Analysis
+**Transportation systems analysis**
 for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
 
-## Fundamentals of Automatic Control
+**Fundamentals of automatic control**
 for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
 
-## MATLAB Programming
+**MATLAB programming**
 for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
 
-## Transportation Operations Research
+**Transportation operations research**
 for graduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
