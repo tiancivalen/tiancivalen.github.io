@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Research interets
+# Research interet
 
 1. Data-driven optimisation
    - constrained shortest path finding 
