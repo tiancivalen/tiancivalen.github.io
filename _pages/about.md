@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am **Tianci Zhang (张天慈)**, currently working at Nanjing Forestry University. Before joining NJFU, I studied at Nanjing University of Aeronautics and Astronautics and Queen Mary University of London, and obtained a PhD degree from NUAA in 2018. My research interest mainly lies in data-driven optimisation and intelligent vehicles.
+I am currently a Lecturer with the College of Automobile and Traffic Engineering at Nanjing Forestry University (NFU). Before joining NFU, I received a PhD degree in Traffic Information Engineering and Control from Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. I also worked as a visiting student at Queen Mary University of London from 2016 to 2017 before finishing the PhD programme in NUAA. I have conducted a number of multidisciplinary projects in China and UK since 2014, and wishes to diversify and expand my knowledge and gain complementary skills in the integration of traditional optimisation methods with deep learning techniques. 
 
 
