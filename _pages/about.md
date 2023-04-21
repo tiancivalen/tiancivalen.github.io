@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am currently with the College of Automobile and Traffic Engineering at Nanjing Forestry University (NFU). Before joining NFU, I received a PhD degree in Traffic Information Engineering and Control from Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. I also worked as a visiting student at Queen Mary University of London from 2016 to 2017 before finishing the PhD programme in NUAA. I have conducted a number of multidisciplinary projects in China and UK since 2014, and wishes to diversify and expand my knowledge and gain complementary skills in the integration of traditional optimisation methods with deep learning. 
+I am currently with the College of Automobile and Traffic Engineering at Nanjing Forestry University (NFU). Before joining NFU, I received a PhD degree in Traffic Information Engineering and Control from Nanjing University of Aeronautics and Astronautics (NUAA) in 2018. I also worked as a visiting student at Queen Mary University of London from 2016 to 2017. I have conducted a number of multidisciplinary projects in China and UK, and wishes to diversify and expand my knowledge and gain complementary skills in novel optimisation techniques based on deep learning. 
 
 
