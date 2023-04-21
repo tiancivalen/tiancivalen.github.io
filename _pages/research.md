@@ -26,7 +26,7 @@ author_profile: true
 
 - Chen Wang, Yongjun Min, **Tianci Zhang**. Image restoration of automatic driving simulation road scene based on improved Criminisi algorithm. Software Engineering, 2022, 25(03): 44-47. (in Chinese)
 
-- **Tianci Zhang**, Michal Weiszer, Jun Chen. The feasibility of Follow-the-Greens for 4-dimensional trajectory based airport ground movements. Transportation Research Part C: Emerging Technologies, 2020, 116: 1-14. [[pdf](../files/The-feasibility-of-Follow-the-Greens-for-4-dimensi.pdf)]
+- **Tianci Zhang**, Michal Weiszer, Jun Chen. The feasibility of Follow-the-Greens for 4-dimensional trajectory based airport ground movements. Transportation Research Part C: Emerging Technologies, 2020, 116: 1-14. [[pdf](../files/The-feasibility-of-Follow-the-Greens.pdf)]
 
 - **Tianci Zhang**, Meng Ding, Xiaoyan Qian, Hongfu Zuo. Moving object speed measurement for low-camera-angle surface surveillance. Journal of Beijing University of Aeronautics and Astronautics, 2020, 46(02): 266-273. (in Chinese)
 
@@ -44,11 +44,11 @@ author_profile: true
 
 - Xiaoyan Qian, **Tianci Zhang**, Bangfeng Wang, Shengguo Huang. Color night vision algorithm based on local color mapping. Journal of Image and Graphics, 2012(05): 689-693. (in Chinese)
 
-- **Tianci Zhang**, Lilla Beke, Songwei Liu, Michal Weiszer, Jun Chen. An extended memetic algorithm for multiobjective routing and scheduling of airport ground movements with intermediate holding. in Proc. of the 2022 IEEE Congress on Evolutionary Computation (CEC), Padua, Italy, Jul. 2022. [[pdf](../files/An-extended-memetic-algorithm-for-multiobjective-r.pdf)]
+- **Tianci Zhang**, Lilla Beke, Songwei Liu, Michal Weiszer, Jun Chen. An extended memetic algorithm for multiobjective routing and scheduling of airport ground movements with intermediate holding. in Proc. of the 2022 IEEE Congress on Evolutionary Computation (CEC), Padua, Italy, Jul. 2022. [[pdf](../files/An-extended-memetic-algorithm.pdf)]
 
 - **Tianci Zhang**, Meng Ding, Hongfu Zuo, Lina Zeng, Zejun Sun. A two-stage speed profile design methodology for smooth and fuel efficient aircraft ground movement. in Proc. of the 12th IEEE International Conference on Control & Automation, Kathmandu, Nepal, 2016. [[pdf](../files/0003.pdf)]
 
-- Lina Zeng, Meng Ding, **Tianci Zhang**, Zejun Sun. A fast moving object detection method based on 2D laser scanner and infrared camera. in Applied Optics and Photonics China (AOPC2015), Beijing, China, 2015.
+- Lina Zeng, Meng Ding, **Tianci Zhang**, Zejun Sun. A fast moving object detection method based on 2D laser scanner and infrared camera. in Applied Optics and Photonics China (AOPC2015), Beijing, China, 2015. [[pdf](../files/A-fast-moving-object-detection.pdf)]
 
 - Wenzhuo Guo, Xiaoyan Qian, **Tianci Zhang**. Color contrast enhancement method in Lab space for color night vision. in Proc. of the 2014 International Symposium on Systems and Computer technology, Shanghai, China, 2014. 
 
