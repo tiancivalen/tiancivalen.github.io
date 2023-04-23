@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Transportation systems analysis**  
-for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
 
 **Fundamentals of automatic control**  
 for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
@@ -16,3 +14,6 @@ for undergraduate students at College of Automobile and Traffic Engineering, Nan
 
 **Transportation operations research**  
 for graduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
+
+**Transportation systems analysis**  
+for undergraduate students at College of Automobile and Traffic Engineering, Nanjing Forestry University
