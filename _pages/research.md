@@ -32,7 +32,7 @@ author_profile: true
 
 - **Tianci Zhang**, Meng Ding, Hongfu Zuo. Improved approach for time-based taxi trajectory planning towards conflict-free, efficient and fluent airport ground movement. IET Intelligent Transport Systems, 2018, 12(10): 1360-1368. [[pdf](../files/IET-ITS.2018.5193.pdf)] [[code](https://github.com/tiancivalen/routing-scheduling-for-surface-vehicles-public)]
 
-- **Tianci Zhang**, Meng Ding, Hongfu Zuo, Jun Chen, Michal Weiszer, Xiaoyan Qian, Edmund K. Burke. An online speed profile generation approach for efficient airport ground movement. Transportation Research Part C: Emerging Technologies, 2018, 93: 256-272. [[pdf](../files/1-s2.0-S0968090X18307708-main.pdf)]
+- **Tianci Zhang**, Meng Ding, Hongfu Zuo, Jun Chen, Michal Weiszer, Xiaoyan Qian, Edmund K. Burke. An online speed profile generation approach for efficient airport ground movement. Transportation Research Part C: Emerging Technologies, 2018, 93: 256-272. [[pdf](../files/1-s2.0-S0968090X18307708-main.pdf)][[data](www.zenodo.org/record/1284498)]
 
 - **Tianci Zhang**, Meng Ding, Hongfu Zuo. Airport ground movement disruption recovery via mixed-integer programming. Journal of Beijing University of Aeronautics and Astronautics, 2018, 44(11): 2356-2363. (in Chinese)
 
