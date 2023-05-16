@@ -22,7 +22,7 @@ author_profile: true
 
 # Publications
 
-- Zheng Wang, Xinge Li, **Tianci Zhang**. Research on longitudinal car-following control of unmanned vehicle based on model predictive control. Intelligent Computer and Applications, 2023, 13(4). (in Chinese)
+- Zheng Wang, Xinge Li, **Tianci Zhang**. Research on longitudinal car-following control of unmanned vehicle based on model predictive control. Intelligent Computer and Applications, 2023, 13(4): 163-166+173. (in Chinese)
 
 - Chen Wang, Yongjun Min, **Tianci Zhang**. Image restoration of automatic driving simulation road scene based on improved Criminisi algorithm. Software Engineering, 2022, 25(03): 44-47. (in Chinese)
 
